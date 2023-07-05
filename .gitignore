@@ -6,6 +6,7 @@ __pycache__/
 static/
 media/
 project/settings.py
+node_modules
 
 # C extensions
 *.so
