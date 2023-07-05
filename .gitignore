@@ -7,6 +7,7 @@ static/
 media/
 project/settings.py
 node_modules
+node_modules/lodash/_listCacheClear.js
 
 # C extensions
 *.so
